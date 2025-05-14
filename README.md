@@ -114,11 +114,3 @@ This project aims to build a data analysis and reporting notebook (or app) that 
 
 ---
 
-**How to use this README:**
-
-1.  **Save it as `README.md`** in the main directory of your project (the same folder where your Jupyter Notebook and potentially the data file will reside).
-2.  **Replace the bracketed links** (`<Link to OWID Dataset>`, etc.) with the actual URLs. You can find the Our World in Data dataset link by searching on their website. If you use the Johns Hopkins data or a Kaggle dataset, include those links as well.
-3.  **As you progress through the project**, you might want to add more details or refine the descriptions in the README. For example, you could briefly mention any interesting insights you've found.
-
-This README provides a good overview of your project based on the images you shared. It outlines the steps, goals, tools, and expected deliverables, making it easy for someone (including yourself in the future) to understand the project's scope and execution.
-
