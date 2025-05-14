@@ -110,7 +110,7 @@ This project aims to build a data analysis and reporting notebook (or app) that 
 
 ## Helpful References
 
-1.  Kaggle Dataset - [Link to Kaggle Dataset - You'll need to find the actual link if you use it]
+1.  Kaggle Dataset - [https://www.kaggle.com/datasets/meirnizri/covid19-dataset]
 
 ---
 
